@@ -4,14 +4,14 @@
 <h3 align="center">Backend Developer | Passionate Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76DA3&center=true&width=435&lines=Back-end+Development...;Building+Real-World+Projects...;Loving+FastAPI+and+Python!;Always+growing+%26+refusing+to+give+up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76DA3&center=true&width=435&lines=Backend+Development...;Building+Real-World+Projects...;Loving+FastAPI+and+Python!;Always+growing+%26+refusing+to+give+up" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-👩 Learning through the **ALX Software Engineering Program**, specializing in **Back-end Development**.
+👩 Learning through the **ALX Software Engineering Program**, specializing in **Backend Development**.
 
 🌱 My passion lies in breaking down complex problems and transforming them into innovative, practical solutions.
 
@@ -19,7 +19,7 @@
 
 🛠️ I’m deeply committed to building **thoughtful and functional backend systems** that prioritize accessibility, inclusivity, and ethical design.
 
-💡 I'm inspired by growth: every bug fixed, every concept mastered, every bold risk—brings me closer to the developer I’m becoming.
+💡 I'm inspired by growth: every bug fixed, every concept mastered, every bold risk brings me closer to the developer I’m becoming.
 
 ---
 
