@@ -1,17 +1,17 @@
 <!-- GitHub Profile README: My Brie -->
 
 <h1 align="center">Hello, I'm Ednah Bridget 👋</h1>
-<h3 align="center">Back-end Software Engineering Learner | Aspiring Full-Stack Developer | Passionate Problem Solver</h3>
+<h3 align="center">Backend Developer | Passionate Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76DA3&center=true&width=435&lines=Learning+Back-end+Development...;Building+Real-World+Projects...;Loving+FastAPI+and+Python!;Always+growing+%26+refusing+to+give+up" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F76DA3&center=true&width=435&lines=Back-end+Development...;Building+Real-World+Projects...;Loving+FastAPI+and+Python!;Always+growing+%26+refusing+to+give+up" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 
-👩 I’m currently learning through the **ALX Software Engineering Program**, specializing in **Back-end Development**.
+👩 Learning through the **ALX Software Engineering Program**, specializing in **Back-end Development**.
 
 🌱 My passion lies in breaking down complex problems and transforming them into innovative, practical solutions.
 
@@ -55,23 +55,12 @@ My goal is to:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkay29&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-bkay29&theme=radical" alt="GitHub Streak" height="180px"/>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi&logoColor=green)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
 ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 
@@ -88,5 +77,5 @@ My goal is to:
 ---
 
 <p align="center">
-  <i>"BUILD. CODE. DEPLOY."</i> ✨
+  <i>"PLAN. CODE. BUILD. DEPLOY."</i> ✨
 </p>
