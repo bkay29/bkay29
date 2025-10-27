@@ -11,27 +11,27 @@
 
 ## About Me
 
-👩 Learning through the **ALX Software Engineering Program**, specializing in **Backend Development**.
+ - Learning through the **ALX Software Engineering Program**, specializing in **Backend Development**.
 
-🌱 My passion lies in breaking down complex problems and transforming them into innovative, practical solutions.
+ - My passion lies in breaking down complex problems and transforming them into innovative, practical solutions.
 
-🚀 I thrive on **critical thinking**, **creativity**, and the magic of seeing an idea turn into reality.
+ - I thrive on **critical thinking**, **creativity**, and the magic of seeing an idea turn into reality.
 
-🛠️ I’m deeply committed to building **thoughtful and functional backend systems** that prioritize accessibility, inclusivity, and ethical design.
+ - I’m deeply committed to building **thoughtful and functional backend systems** that prioritize accessibility, inclusivity, and ethical design.
 
-💡 I'm inspired by growth: every bug fixed, every concept mastered, every bold risk brings me closer to the developer I’m becoming.
+ - I'm inspired by growth: every bug fixed, every concept mastered, every bold risk brings me closer to the developer I’m becoming.
 
 ---
 
-## 🎯 My Mission
+##  My Mission
 
 > *"Technology should empower, include, and simplify life for everyone—regardless of age, gender, background, or ability."*
 
 My goal is to:
 -  Build strong fundamentals in **programming**, **system design**, and **emerging technologies**
 -  Create solutions that solve real-world problems with elegance
-- 🌍 Champion **accessible** and **inclusive** technology
-- 💡 Be a **trusted problem solver** who delivers value through ethical, user-first solutions
+-  Champion **accessible** and **inclusive** technology
+-  Be a **trusted problem solver** who delivers value through ethical, user-first solutions
 
 ---
 
@@ -39,19 +39,19 @@ My goal is to:
 
 | Areas of Interest               | Description |
 |-------------------------------|-------------|
-| 🎨 **Creativity & Entertainment** | Projects that combine art, media, and code to bring joy and innovation |
-| 🛠️ **Developer & Design Tools** | Tools that empower other devs and creatives |
-| 📱 **Everyday Convenience**    | Apps and APIs that simplify tasks or solve daily problems |
-| 🌱 **Social Impact & Utility** | Tech that makes life better, fairer, and more accessible |
+|  **Creativity & Entertainment** | Projects that combine art, media, and code to bring joy and innovation |
+|  **Developer & Design Tools** | Tools that empower other devs and creatives |
+|  **Everyday Convenience**    | Apps and APIs that simplify tasks or solve daily problems |
+|  **Social Impact & Utility** | Tech that makes life better, fairer, and more accessible |
 
 ---
 
 ## Currently Working On
 
-- ⚙️ Real-world APIs with **FastAPI + Python**
-- 🧠 Deepening understanding of **Databases**, **Authentication**, and **System Architecture**
-- 🌐 Backend logic for scalable, secure systems
-- 🏋🏽‍♀️ Managing **projects that mirror real job scenarios**
+-  Real-world APIs with **FastAPI + Python**
+-  Deepening understanding of **Databases**, **Authentication**, and **System Architecture**
+-  Backend logic for scalable, secure systems
+-  Managing **projects that mirror real job scenarios**
 
 ---
 
